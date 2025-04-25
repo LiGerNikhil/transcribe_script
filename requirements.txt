@@ -5,6 +5,8 @@ openai-whisper      # Whisper model wrapper
 numpy               # numerical operations
 pydub
 ffmpeg-python
+whisper
+PyQT5
 
 # GPU Acceleration (Optional)
 # torch and torchaudio versions should match your CUDA version
