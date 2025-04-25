@@ -1,0 +1,12 @@
+torch               # for GPU/CPU inference
+torchvision         # optional, for any vision tasks
+torchaudio          # for audio I/O
+openai-whisper      # Whisper model wrapper
+numpy               # numerical operations
+pydub
+ffmpeg-python
+
+# GPU Acceleration (Optional)
+# torch and torchaudio versions should match your CUDA version
+# For CUDA 11.8 (recommended):
+--extra-index-url https://download.pytorch.org/whl/cu118

@@ -1,0 +1,348 @@
+Transcript: JohnChowning041306_part1.ogg
+Model: base | Device: cpu | FP16: False
+==================================================
+
+[00:00:00 - 00:00:03] At the time that you started working in computer music,
+
+[00:00:03 - 00:00:07] most computer usage was for purposes like accounting
+
+[00:00:07 - 00:00:09] and ballistics calculations.
+
+[00:00:09 - 00:00:12] What made you even think of using computers
+
+[00:00:12 - 00:00:14] as a creative tool?
+
+[00:00:14 - 00:00:19] I had come to Stanford in 1962 from three years studying
+
+[00:00:19 - 00:00:24] in Paris with Nadia Bourlajet, who was a well-known teacher
+
+[00:00:24 - 00:00:29] and people such as Aaron Copeland and Quincy Jones.
+
+[00:00:29 - 00:00:32] And I were there at the same time studying.
+
+[00:00:32 - 00:00:37] So she was an important figure in Paris, musical circles.
+
+[00:00:37 - 00:00:42] But as important to my own education as Nadia Bourlajet
+
+[00:00:42 - 00:00:45] was the musical scene in general in Paris.
+
+[00:00:45 - 00:00:49] Pierre Boulez was a young avant-garde,
+
+[00:00:49 - 00:00:53] off on Tercieble, often referred to in such a way.
+
+[00:00:53 - 00:00:58] In Paris and had a series of concerts, the Domen music
+
+[00:00:58 - 00:01:01] call, in which he presented new music,
+
+[00:01:01 - 00:01:04] much of which had to do with loudspeakers, electronic music,
+
+[00:01:04 - 00:01:08] made by the various kinds of devices
+
+[00:01:08 - 00:01:12] that one found in radio studios broadcasting in those days,
+
+[00:01:12 - 00:01:16] oscillators, filters, things that could be turned
+
+[00:01:16 - 00:01:21] to musical uses by composers, if given the opportunity
+
+[00:01:21 - 00:01:24] to work in some of these studios.
+
+[00:01:24 - 00:01:29] So when I came to Stanford having had this rich experience
+
+[00:01:29 - 00:01:33] in Europe, as a graduate student, I asked
+
+[00:01:33 - 00:01:37] if there were possibilities for such and there were none.
+
+[00:01:37 - 00:01:39] There was no studio.
+
+[00:01:39 - 00:01:42] There was four electronic music, the only one
+
+[00:01:42 - 00:01:45] that I knew of in this country was at Columbia at that time.
+
+[00:01:45 - 00:01:49] In any case, my second year graduate school,
+
+[00:01:49 - 00:01:54] my graduate studies with Leland Smith in composition,
+
+[00:01:54 - 00:01:58] not musicology, as noted in the book, but rather
+
+[00:01:58 - 00:02:03] a composer by Trini, I was given an article
+
+[00:02:03 - 00:02:05] that Max Matthews had written.
+
+[00:02:05 - 00:02:08] Max was a researcher at Bell Labs, director
+
+[00:02:08 - 00:02:11] of the Behavioral Research Lab.
+
+[00:02:11 - 00:02:17] And his interests not only were engineering sciences,
+
+[00:02:17 - 00:02:18] but also music.
+
+[00:02:18 - 00:02:22] And he had developed a program called Rich
+
+[00:02:22 - 00:02:27] allowed computers to be used to generate acoustic signals.
+
+[00:02:27 - 00:02:30] This, of course, was of interest in the scientific community
+
+[00:02:30 - 00:02:31] for speech research.
+
+[00:02:31 - 00:02:35] But Max's interests were in music.
+
+[00:02:35 - 00:02:38] And he wrote this article published in Science
+
+[00:02:38 - 00:02:43] in November 1963 describing this program.
+
+[00:02:43 - 00:02:46] So that was the beginning.
+
+[00:02:46 - 00:02:49] Now, in the very beginning of electronic music,
+
+[00:02:49 - 00:02:52] the electronics we're talking about were actually analog.
+
+[00:02:52 - 00:02:57] By the timing of your start in the electronic music field,
+
+[00:02:57 - 00:02:59] you managed to get in on the ground floor
+
+[00:02:59 - 00:03:03] of digital electronic music.
+
+[00:03:03 - 00:03:05] In the very beginning, access to computers
+
+[00:03:05 - 00:03:07] must have been a very big problem.
+
+[00:03:07 - 00:03:08] Well, it was.
+
+[00:03:08 - 00:03:13] But Stanford had kind of open view toward this
+
+[00:03:13 - 00:03:17] and had made an invitation to the School of Humanities
+
+[00:03:17 - 00:03:21] to look at computers and possible applications.
+
+[00:03:21 - 00:03:24] So there was a coincidence that was my good fortune,
+
+[00:03:24 - 00:03:28] that is, having looked at this article by Max,
+
+[00:03:28 - 00:03:32] also realizing that the computer science department,
+
+[00:03:32 - 00:03:35] which was then part of the School of Humanities
+
+[00:03:35 - 00:03:40] and Sciences, was open to uses other than this sort
+
+[00:03:40 - 00:03:43] of applications, which you described at the outset.
+
+[00:03:43 - 00:03:49] So I met a young undergraduate, David Poole,
+
+[00:03:49 - 00:03:51] who was a tuba player in the orchestra.
+
+[00:03:51 - 00:03:56] Stanford Orchestra, I was the timpannist at the time
+
+[00:03:56 - 00:03:58] of 30-year-old graduate student.
+
+[00:03:58 - 00:04:02] David was probably a 19 or 20-year-old undergraduate.
+
+[00:04:02 - 00:04:06] He saw me at the computer center one day holding a big box
+
+[00:04:06 - 00:04:10] of IBM cards, which I had acquired from Max at Bell Labs,
+
+[00:04:10 - 00:04:12] and asked what I was doing.
+
+[00:04:12 - 00:04:16] And I told him that I was going to try
+
+[00:04:16 - 00:04:23] and implement this program on the computer system at Stanford.
+
+[00:04:23 - 00:04:26] And he jumped in and offered to help me.
+
+[00:04:26 - 00:04:31] I think without David, I may not have been successful
+
+[00:04:31 - 00:04:35] in these early years, because it was laborious.
+
+[00:04:35 - 00:04:36] It was difficult.
+
+[00:04:36 - 00:04:41] One had to have fairly comprehensive understanding
+
+[00:04:41 - 00:04:43] of how computers work.
+
+[00:04:43 - 00:04:45] My last math course had been in high school,
+
+[00:04:45 - 00:04:50] so it was a long way for me to, and let's say it would have
+
+[00:04:50 - 00:04:52] been a bit of a stretch for me to have tried
+
+[00:04:52 - 00:04:55] to accomplish this all by myself.
+
+[00:04:55 - 00:04:58] So David taught me basically all that I needed to know
+
+[00:04:58 - 00:05:01] through over the course of several years.
+
+[00:05:01 - 00:05:04] He got the program going, taught me how to program,
+
+[00:05:04 - 00:05:08] taught me the basics of acoustics, all the things
+
+[00:05:08 - 00:05:11] that I needed to understand in order to begin work
+
+[00:05:11 - 00:05:13] with the computer.
+
+[00:05:13 - 00:05:16] Now, it turns out that his solution to getting
+
+[00:05:16 - 00:05:22] continuous data stream of samples from a big IBM 7090
+
+[00:05:22 - 00:05:26] to a digital analog converter, which was actually
+
+[00:05:26 - 00:05:30] the two letters, the X, Y, coordinates of a DEX code.
+
+[00:05:30 - 00:05:33] This continuous data stream in order
+
+[00:05:33 - 00:05:37] not to have small segments of sound,
+
+[00:05:37 - 00:05:39] but rather continuous sound, turned out
+
+[00:05:39 - 00:05:45] to be a solution to increasing the number of timeshare users
+
+[00:05:45 - 00:05:50] on this PDP1 deck time sharing system, which I think
+
+[00:05:50 - 00:05:52] supported two or three users.
+
+[00:05:52 - 00:05:58] And David's solution to the problem of data bandwidth
+
+[00:05:58 - 00:06:00] and continuous samples.
+
+[00:06:00 - 00:06:03] Also solved their problem for fast swapping.
+
+[00:06:03 - 00:06:06] And it's my, as I remember, the number of users
+
+[00:06:06 - 00:06:09] after he did that went from two or three to eight or 10,
+
+[00:06:09 - 00:06:11] something that's what.
+
+[00:06:11 - 00:06:14] So he became a very important part
+
+[00:06:14 - 00:06:18] of the artificial intelligence laboratory.
+
+[00:06:18 - 00:06:21] He finished his graduate work and then went on
+
+[00:06:21 - 00:06:25] and finished his undergraduate, I'm sorry,
+
+[00:06:25 - 00:06:27] then did some graduate work, but he basically
+
+[00:06:27 - 00:06:32] became of the system guru of the lab
+
+[00:06:32 - 00:06:37] that John McCarthy directed in the early years.
+
+[00:06:37 - 00:06:40] When you came to Stanford, then you did not immediately
+
+[00:06:40 - 00:06:42] go to the AI lab.
+
+[00:06:42 - 00:06:44] That was subsequent in your career.
+
+[00:06:44 - 00:06:47] When did you go from the regular campus to the AI lab
+
+[00:06:47 - 00:06:51] and given that you were a professor of music at that point,
+
+[00:06:51 - 00:06:54] rather than a professor of math or computer science,
+
+[00:06:54 - 00:06:56] what motivated you to move out there?
+
+[00:06:56 - 00:06:59] I was a graduate student actually until 1966,
+
+[00:06:59 - 00:07:01] when I finished my doctorate.
+
+[00:07:01 - 00:07:06] But the initial work was done at the computer center
+
+[00:07:06 - 00:07:11] on campus on a PDP1, which shared a 2314 disk
+
+[00:07:12 - 00:07:14] with an IBM 7090.
+
+[00:07:14 - 00:07:19] And in 1966 is when the AI project
+
+[00:07:20 - 00:07:25] acquired a PDP6, which was a large machine, time shared,
+
+[00:07:25 - 00:07:30] and moved to the DC power laboratory on the restaurant era road.
+
+[00:07:31 - 00:07:34] And it was then that I started teaching as well that year.
+
+[00:07:36 - 00:07:39] You're moved to the sale facility,
+
+[00:07:39 - 00:07:42] then out on the restaurant era road was motivated
+
+[00:07:42 - 00:07:45] in large part by your desire to have access
+
+[00:07:45 - 00:07:47] to the computing resources there.
+
+[00:07:47 - 00:07:50] Did you have a lot of contact with the faculty
+
+[00:07:50 - 00:07:53] who were doing the more hardcore computer science research,
+
+[00:07:53 - 00:07:58] like robotics or formal proofs of computer programs?
+
+[00:07:58 - 00:07:59] Yes, I did.
+
+[00:07:59 - 00:08:01] I mean, it was one community of people,
+
+[00:08:01 - 00:08:05] some having more stature than others, I'd say.
+
+[00:08:05 - 00:08:07] I was not funded.
+
+[00:08:07 - 00:08:11] And the work that I did, and also with Leland Smith,
+
+[00:08:11 - 00:08:14] who joined me in this work,
+
+[00:08:14 - 00:08:17] who had been my composition professor,
+
+[00:08:17 - 00:08:21] now then in 1966, a colleague, senior colleague.
+
+[00:08:21 - 00:08:26] We were unsupported, so therefore we were constrained
+
+[00:08:27 - 00:08:30] in the hours in which we could use the system
+
+[00:08:30 - 00:08:35] to weekends and nights, and I would say some very late nights.
+
+[00:08:36 - 00:08:41] But there was one researcher, Raj Reddy,
+
+[00:08:41 - 00:08:43] who was went on to Carnegie Mellon,
+
+[00:08:43 - 00:08:46] and I think director of their robotics lab,
+
+[00:08:46 - 00:08:49] who at that time was working in speech recognition.
+
+[00:08:49 - 00:08:54] And he and I, of course, had some common interest
+
+[00:08:54 - 00:08:59] in that we were both interested in the acoustic domain.
+
+[00:08:59 - 00:09:01] So that was a rich connection.
+
+[00:09:02 - 00:09:07] I must say I used the body of people at the AI lab
+
+[00:09:08 - 00:09:09] to my own advantage.
+
+[00:09:09 - 00:09:13] I was able to ask many people, many questions
+
+[00:09:13 - 00:09:17] and get good solid answers about things
+
+[00:09:17 - 00:09:18] that were common knowledge to those
+
+[00:09:18 - 00:09:20] who were educated in the sciences.
+
+[00:09:21 - 00:09:23] And so it was a very rich environment
+
+[00:09:23 - 00:09:25] for my point of view.
+
+[00:09:26 - 00:09:28] I think of all the people, probably David Poole,
+
+[00:09:28 - 00:09:33] was the most important, but in my own particular work
+
+[00:09:33 - 00:09:36] because he wrote a special compiler that was native
+
+[00:09:36 - 00:09:40] to the PDP, six PDP 10 family of computers.
+
+[00:09:40 - 00:09:44] And in doing that, he taught me programming
+
+[00:09:44 - 00:09:46] and assembly language, what not.
+
+[00:09:46 - 00:09:51] And sort of shepherded me through the life of the AI lab,
+
+[00:09:51 - 00:09:54] protecting me from occasionally arrogant sciences
+
+[00:09:54 - 00:09:58] who would have scientists who would have liked
+
+[00:09:58 - 00:10:00] less competition for compute cycles.
+
+[00:10:00 - 00:10:04] But in general, it was a pretty nice environment
+
+[00:10:04 - 00:10:05] and supportive, I would say.
+
